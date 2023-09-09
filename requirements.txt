@@ -1,0 +1,16 @@
+numexpr
+matplotlib
+pandas
+av
+pims
+imageio_ffmpeg
+rich
+numpy
+opencv-python
+Pillow
+PyYAML
+scikit-image
+scipy
+torch
+torchvision
+color_matcher
